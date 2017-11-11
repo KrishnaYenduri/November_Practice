@@ -17,6 +17,7 @@ public class UserController {
 	@ResponseBody
 	@RequestMapping(value = "/all", method = RequestMethod.GET, produces = "application/json")
 	public List<User> getAllUsers() {
+		System.out.println("Controller");
 		return Arrays.asList(new User(1, "KRISHNA", "9791064265", "dev.krishnasai@gmail.com"),
 				new User(2, "SAI", "9791064265", "tech.krishnayenduri@gmail.com"));
 	}
