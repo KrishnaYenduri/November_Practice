@@ -1,0 +1,8 @@
+com\spring\boot\mini\jsp\model\Mobile.class
+com\spring\boot\mini\jsp\dao\MobileImpl.class
+com\spring\boot\mini\jsp\service\MobileService.class
+com\spring\boot\mini\jsp\AppConfig.class
+com\spring\boot\mini\jsp\DbConfiguration.class
+com\spring\boot\mini\jsp\rest\MobileController.class
+com\spring\boot\mini\jsp\ApplicationInit.class
+com\spring\boot\mini\jsp\dao\MobileDao.class

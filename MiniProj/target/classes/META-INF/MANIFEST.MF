@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MiniProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Yenduri
+Implementation-Vendor-Id: com.spring.boot.mini.jsp
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/MiniProj/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
